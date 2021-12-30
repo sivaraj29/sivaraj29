@@ -1,0 +1,9 @@
+Fonts used in this design:
+
+Font: Bebas Neue
+Author: Ryoichi Tsunekawa
+Url: https://fonts.google.com/specimen/Bebas+Neue
+
+Font: Open Sans
+Author: Steve Matteson
+Url: https://fonts.google.com/specimen/Open+Sans
